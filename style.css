@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+   
+    
+  }
+
+
+  /* Top left text */
+  .left {
+    position: absolute;
+    top: 208px;
+    left: 96px;
+    color: black;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    padding: 40px;    
+  }
+  
+  .left1{
+    position: absolute;
+    top: 328px;
+    left: 96px;
+    color: black;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    padding: 40px;    
+    font-size: 18px;
+  }
+  .btn11{
+    position: absolute;
+    top: 448px;
+    left: 120px;
+    color: rgb(5, 5, 5);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 14px;
+    
+    
+  }
+  
